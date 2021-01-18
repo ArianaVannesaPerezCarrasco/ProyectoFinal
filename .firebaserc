@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-fed3c": {
+      "hosting": {
+        "Final": [
+          "login-fed3c"
+        ]
+      }
+    }
+  }
+}
