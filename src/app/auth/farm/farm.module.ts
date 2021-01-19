@@ -18,7 +18,7 @@ import {environment} from '../../../environments/environment';
     NgbModule,
     ReactiveFormsModule,
     FormsModule,
-    AngularFireModule.initializeApp(environment.firebase)
+    AngularFireModule.initializeApp(environment.firebaseConfig)
   ],
   providers:[ ],
   bootstrap:[FarmComponent]
